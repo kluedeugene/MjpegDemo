@@ -1,0 +1,3 @@
+C:/Users/motion/source/repos/MjpegEncoder/CMakeFiles/H264EncoderDemo.dir
+C:/Users/motion/source/repos/MjpegEncoder/CMakeFiles/ALL_BUILD.dir
+C:/Users/motion/source/repos/MjpegEncoder/CMakeFiles/ZERO_CHECK.dir
