@@ -10,3 +10,4 @@ opencv와 혼용해서 인코딩하므로
          추가 포함 디렉터리를 C:\opencv\build\include
 
 위와같이 설정된 상태에서 각각의 bin, include , lib 폴더에 맞는 파일들을 복사한다.
+bin 파일은 용량이 커서 첨부되지않았음.ㅣ
